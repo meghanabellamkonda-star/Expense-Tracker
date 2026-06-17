@@ -6,7 +6,7 @@ body{
     color: white;
     padding: 10px 50px;
   
-    font-size: 2rem;
+    font-size: 1.4rem;
 }
 .input-form{
     
@@ -22,7 +22,7 @@ body{
 .plus{
     width: 60px;
     height: 60px;
-     font-size: 2rem;
+     font-size: 1.5rem;
      font-weight: 600;
     padding: 10px;
     background-color:  rgb(16, 108, 151);
@@ -53,10 +53,10 @@ body{
     color: white;
 }
 .card-title{
-    font-size: 1.7rem;
+    font-size: 1.5rem;
 }
 .amount{
-    font-size:2rem ;
+    font-size:1.2rem ;
 }
 #header-row{
     background-color: rgb(16, 108, 151) ;
