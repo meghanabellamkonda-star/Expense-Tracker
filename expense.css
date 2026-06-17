@@ -1,0 +1,83 @@
+body{
+    font-family: "Comfortaa", sans-serif;
+}
+.header{
+    background-color: rgb(16, 108, 151);
+    color: white;
+    padding: 10px 50px;
+  
+    font-size: 2rem;
+}
+.input-form{
+    
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 10px;
+    width: 95%;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 0 0px 2px 4px rgb(16, 108, 151);
+    border-radius: 10px;
+}
+.plus{
+    width: 60px;
+    height: 60px;
+     font-size: 2rem;
+     font-weight: 600;
+    padding: 10px;
+    background-color:  rgb(16, 108, 151);
+    color: white;
+    border-radius: 50%;
+    border: 0;
+    
+
+}
+.inputs{
+    width: 30%;
+    margin: 0% 2%;
+}
+.cards{
+    margin: auto;
+    margin-top: 30px;
+    width: 95%;
+  
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    background-color:rgb(16, 108, 151) ;
+    margin: 5px 0px;
+    border: 0;
+    width: 600px;
+   padding: 3px 10px;
+    color: white;
+}
+.card-title{
+    font-size: 1.7rem;
+}
+.amount{
+    font-size:2rem ;
+}
+#header-row{
+    background-color: rgb(16, 108, 151) ;
+  
+
+}
+#header-row th{
+    padding: 20px 15px;
+    color: white;
+    font-size: 1.5rem;
+
+}
+#transaction-table 
+{
+    width: 95%;
+    margin: auto;
+    margin-top: 20px;
+
+}
+#transaction-table td,
+#transaction-table th{
+    text-align: center;
+    padding: 12px;
+}
