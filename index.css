@@ -47,11 +47,11 @@ body{
     
 }
 .hello{
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 .name{
     color:rgb(16, 108, 151) ;
-    font-size: 7rem;
+    font-size: 6rem;
     margin-bottom: 30px;
     margin-top: 20px;
 }
@@ -72,5 +72,5 @@ body{
      margin: 20px 0px;
 }
 .main-content{
- margin-left: 350px;
+ margin-left: 250px;
 }
